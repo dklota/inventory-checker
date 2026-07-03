@@ -1,0 +1,11 @@
+SKU,Item_Name,Category,Quantity_On_Hand,Reorder_Point,Unit_Cost,Selling_Price,Storage_Location,Supplier_Name,Last_Updated
+OFF-101,Ballpoint Pens Black 10pk,Office Supplies,142,30,1.20,4.99,Aisle-1A,Global Stationery,2026-07-03
+ELE-402,Wireless Ergonomic Mouse,Electronics,47,15,12.50,29.99,Bin-B3,TechDistributors,2026-06-28
+HOM-089,Stainless Steel Water Bottle,Home Goods,83,20,6.00,18.50,Shelf-C2,EcoKitchen Ltd,2026-07-02
+APP-551,Cotton Crewneck T-Shirt Black,Apparel,215,50,4.50,14.99,Rack-E1,ThreadWorks,2026-07-01
+ELE-209,USB-C Charging Cable 6ft,Electronics,19,25,2.10,9.99,Bin-B5,TechDistributors,2026-07-03
+OFF-304,A4 Copy Paper Box,Office Supplies,64,15,18.00,38.00,Pallet-1,Global Stationery,2026-07-03
+HOM-712,Ceramic Coffee Mug 12oz,Home Goods,112,25,1.75,8.99,Shelf-C4,EcoKitchen Ltd,2026-06-15
+APP-332,Running Socks 3pk,Apparel,76,20,3.00,11.99,Rack-E4,ThreadWorks,2026-06-30
+ELE-884,Bluetooth Noise Canceling Headphones,Electronics,14,5,45.00,119.99,Cabinet-S1,Sonic Audio Inc,2026-07-02
+HOM-105,LED Desk Lamp with USB Port,Home Goods,38,10,9.50,24.99,Shelf-D1,BrightBright Co,2026-07-03
