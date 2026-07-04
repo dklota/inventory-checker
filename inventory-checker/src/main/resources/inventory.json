@@ -1,0 +1,122 @@
+[
+  {
+    "SKU": "OFF-101",
+    "Item_Name": "Ballpoint Pens Black 10pk",
+    "Category": "Office Supplies",
+    "Quantity_On_Hand": 142,
+    "Reorder_Point": 30,
+    "Unit_Cost": 1.20,
+    "Selling_Price": 4.99,
+    "Storage_Location": "Aisle-1A",
+    "Supplier_Name": "Global Stationery",
+    "Last_Updated": "2026-07-03"
+  },
+  {
+    "SKU": "ELE-402",
+    "Item_Name": "Wireless Ergonomic Mouse",
+    "Category": "Electronics",
+    "Quantity_On_Hand": 47,
+    "Reorder_Point": 15,
+    "Unit_Cost": 12.50,
+    "Selling_Price": 29.99,
+    "Storage_Location": "Bin-B3",
+    "Supplier_Name": "TechDistributors",
+    "Last_Updated": "2026-06-28"
+  },
+  {
+    "SKU": "HOM-089",
+    "Item_Name": "Stainless Steel Water Bottle",
+    "Category": "Home Goods",
+    "Quantity_On_Hand": 83,
+    "Reorder_Point": 20,
+    "Unit_Cost": 6.00,
+    "Selling_Price": 18.50,
+    "Storage_Location": "Shelf-C2",
+    "Supplier_Name": "EcoKitchen Ltd",
+    "Last_Updated": "2026-07-02"
+  },
+  {
+    "SKU": "APP-551",
+    "Item_Name": "Cotton Crewneck T-Shirt Black",
+    "Category": "Apparel",
+    "Quantity_On_Hand": 215,
+    "Reorder_Point": 50,
+    "Unit_Cost": 4.50,
+    "Selling_Price": 14.99,
+    "Storage_Location": "Rack-E1",
+    "Supplier_Name": "ThreadWorks",
+    "Last_Updated": "2026-07-01"
+  },
+  {
+    "SKU": "ELE-209",
+    "Item_Name": "USB-C Charging Cable 6ft",
+    "Category": "Electronics",
+    "Quantity_On_Hand": 19,
+    "Reorder_Point": 25,
+    "Unit_Cost": 2.10,
+    "Selling_Price": 9.99,
+    "Storage_Location": "Bin-B5",
+    "Supplier_Name": "TechDistributors",
+    "Last_Updated": "2026-07-03"
+  },
+  {
+    "SKU": "OFF-304",
+    "Item_Name": "A4 Copy Paper Box",
+    "Category": "Office Supplies",
+    "Quantity_On_Hand": 64,
+    "Reorder_Point": 15,
+    "Unit_Cost": 18.00,
+    "Selling_Price": 38.00,
+    "Storage_Location": "Pallet-1",
+    "Supplier_Name": "Global Stationery",
+    "Last_Updated": "2026-07-03"
+  },
+  {
+    "SKU": "HOM-712",
+    "Item_Name": "Ceramic Coffee Mug 12oz",
+    "Category": "Home Goods",
+    "Quantity_On_Hand": 112,
+    "Reorder_Point": 25,
+    "Unit_Cost": 1.75,
+    "Selling_Price": 8.99,
+    "Storage_Location": "Shelf-C4",
+    "Supplier_Name": "EcoKitchen Ltd",
+    "Last_Updated": "2026-06-15"
+  },
+  {
+    "SKU": "APP-332",
+    "Item_Name": "Running Socks 3pk",
+    "Category": "Apparel",
+    "Quantity_On_Hand": 76,
+    "Reorder_Point": 20,
+    "Unit_Cost": 3.00,
+    "Selling_Price": 11.99,
+    "Storage_Location": "Rack-E4",
+    "Supplier_Name": "ThreadWorks",
+    "Last_Updated": "2026-06-30"
+  },
+  {
+    "SKU": "ELE-884",
+    "Item_Name": "Bluetooth Noise Canceling Headphones",
+    "Category": "Electronics",
+    "Quantity_On_Hand": 14,
+    "Reorder_Point": 5,
+    "Unit_Cost": 45.00,
+    "Selling_Price": 119.99,
+    "Storage_Location": "Cabinet-S1",
+    "Supplier_Name": "Sonic Audio Inc",
+    "Last_Updated": "2026-07-02"
+  },
+  {
+    "SKU": "HOM-105",
+    "Item_Name": "LED Desk Lamp with USB Port",
+    "Category": "Home Goods",
+    "Quantity_On_Hand": 38,
+    "Reorder_Point": 10,
+    "Unit_Cost": 9.50,
+    "Selling_Price": 24.99,
+    "Storage_Location": "Shelf-D1",
+    "Supplier_Name": "BrightBright Co",
+    "Last_Updated": "2026-07-03"
+  }
+]
